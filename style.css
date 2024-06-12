@@ -1,0 +1,28 @@
+.banner{
+    background-image: url(IMAGES/pexels-rostislav-10458835.jpg);
+    background-repeat: repeat;
+    padding: 180px 0;
+    background-size: cover;
+color: rgb(6, 0, 11);
+
+}
+*{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  .skills-padding{
+    padding: 50px 0 ;
+    padding-bottom: 20px;
+  }
+  .contact-padding{
+    padding: 70px 0;
+  }
+  .text-animation {
+    font-size: 36px;
+    font-weight: bold;
+    color: #9a03f2;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+  }
